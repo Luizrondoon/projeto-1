@@ -28,4 +28,9 @@ Para contribuir siga os passos de forma correta, para que eu consiga dar *merge*
 ### Contributors:
 
 * [Rodrigo Chireia](https://github.com/chireia)
+* [Irapuan](https://github.com/irapuanb)
+* [TrickSantos](https://github.com/TrickSantos)
+* [Leony Tamio Hatakeyama](https://github.com/leonytamio)
+* [Lucimarck Dias](https://github.com/LucimarckDias)
+* [Thalyta Conrado](https://github.com/Thalyta09)
 * [Luiz Rondon](https://github.com/luizrondoon)
