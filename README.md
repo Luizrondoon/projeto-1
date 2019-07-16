@@ -28,3 +28,4 @@ Para contribuir siga os passos de forma correta, para que eu consiga dar *merge*
 ### Contributors:
 
 * [Rodrigo Chireia](https://github.com/chireia)
+* [Leony Tamio Hatakeyama](https://github.com/leonytamio)
