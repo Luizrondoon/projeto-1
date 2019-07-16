@@ -29,3 +29,4 @@ Para contribuir siga os passos de forma correta, para que eu consiga dar *merge*
 
 * [Rodrigo Chireia](https://github.com/chireia)
 * [Irapuan](https://github.com/irapuanb)
+* [TrickSantos](https://github.com/TrickSantos)
